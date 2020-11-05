@@ -20,7 +20,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 /* Check to see if the current page is the login/register page.
 *
 * Use this in conjunction with is_admin() to separate the front-end
-* from the back-end of your theme.
+* from the back-end of your WordPress installation.
 *
 * @return bool
 */
